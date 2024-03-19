@@ -1,0 +1,50 @@
+{
+    "0-5": [
+        {
+            "text1_position": [675, 250],
+            "font_size1": 100
+        }
+    ],
+    "6-10": [
+        {
+            "text1_position": [550, 250],
+            "font_size1": 100
+        }
+    ],
+    "11-15": [
+        {
+            "text1_position": [350, 250],
+            "font_size1": 100
+        }
+    ],
+    "16-20": [
+        {
+            "text1_position": [260, 250],
+            "font_size1": 85
+        }
+    ],
+    "21-25": [
+        {
+            "text1_position": [260, 290],
+            "font_size1": 75
+        }
+    ],
+    "26-30": [
+        {
+            "text1_position": [150, 290],
+            "font_size1": 65
+        }
+    ],
+    "31-40": [
+        {
+            "text1_position": [150, 290],
+            "font_size1": 60
+        }
+    ],
+    "41-100": [
+        {
+            "text1_position": [150, 290],
+            "font_size1": 55
+        }
+    ]
+}

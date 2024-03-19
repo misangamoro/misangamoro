@@ -1,0 +1,12 @@
+{
+    "animations": [
+      {
+        "delay_text_duration": 3,
+        "text_display_duration": 5
+      },
+      {
+        "delay_text_duration": 3,
+        "text_display_duration": 3
+      }
+    ]
+  }

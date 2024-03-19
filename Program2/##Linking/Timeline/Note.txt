@@ -1,0 +1,3 @@
+dont worry it will say first word then jump to say 11 th word but the time line is maintained
+
+if you give further command the computer get confusion just let it be

@@ -1,0 +1,32 @@
+{
+  "animations": [
+    {
+      "image_path": "C:\\Users\\Sumit\\Desktop\\Online\\Visuals Production\\Assest\\Image\\Charectes\\hunter.png",
+      "text1": "Hello Animation 1",
+      "text2": "Hello2 Animation 1",
+      "delay_text_duration": 2,
+      "text_display_duration": 3,
+      "font_size1": 150,
+      "font_size2": 80,
+      "font_color1": [0, 0, 0, 255],
+      "font_color2": [255, 0, 0, 255],
+      "font_path": "C:\\Users\\Sumit\\Desktop\\Online\\Visuals Production\\Assest\\Font\\Tealand.ttf",
+      "text1_position": [675, 300],
+      "text2_position": [675, 400]
+    },
+    {
+      "image_path": "C:\\Users\\Sumit\\Desktop\\Online\\Visuals Production\\Assest\\Image\\Charectes\\man.png",
+      "text1": "Hello Animation 2",
+      "text2": "Hello2 Animation 2",
+      "delay_text_duration": 1,
+      "text_display_duration": 2,
+      "font_size1": 80,
+      "font_size2": 20,
+      "font_color1": [0, 255, 0, 255],
+      "font_color2": [0, 0, 255, 255],
+      "font_path": "C:\\Users\\Sumit\\Desktop\\Online\\Visuals Production\\Assest\\Font\\Tealand.ttf",
+      "text1_position": [700, 350],
+      "text2_position": [700, 450]
+    }
+  ]
+}

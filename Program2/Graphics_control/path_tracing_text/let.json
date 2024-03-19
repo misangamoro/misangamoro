@@ -1,0 +1,28 @@
+{
+  "animations": [
+    {
+      "font_size1": 75,
+      "text1_position": [
+        350,
+        290
+      ],
+      "font_size2": 100,
+      "text2_position": [400,
+       420
+      ]
+
+    },
+    {
+      "font_size1": 75,
+      "text1_position": [
+        350,
+        290
+      ],
+      "font_size2": 85,
+      "text2_position": [
+          350,
+          400
+        ]
+    }
+  ]
+}

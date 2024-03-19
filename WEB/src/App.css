@@ -1,0 +1,70 @@
+.title {
+    background: linear-gradient(180deg,#fff 0%,#ebe5fb 40%,#7fabff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    display: flex;
+    flex-direction: row;
+}
+
+.font-trocchi {
+    font-family: 'Trocchi', sans-serif;
+}
+
+
+.textbox{
+    position: relative;
+    display: inline-flex;
+    flex-direction: column;
+    height: 52px;
+    padding: 12px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.13);
+    background: linear-gradient(#0f0824,#0c071f) padding-box,linear-gradient(180deg,rgba(255,255,255,0.13) -0.61%,rgba(255,255,255,0.46) -0.43%,rgba(255,255,255,0.2) 13.63%,rgba(255,255,255,0.03) 100%) border-box;
+    backdrop-filter: blur(10px);
+    color: white;
+    font-family: var(--font-family-gudea);
+    margin: auto;
+    overflow: hidden;
+    font-size: 18px;
+    word-wrap: break-word;
+    max-width: 495px;
+    max-height: 305px;
+    resize: none;
+}
+
+
+
+/* Define styles */
+.text-input {
+    /* Position the input field vertically centered */
+    vertical-align: middle;
+    /* Size the input field horizontally centered */
+    font-size: 16px;
+    line-height: 16px;
+  }
+  
+  /* Add event listener for resizing */
+  .text-input:not([readonly])::-webkit-input-placeholder {
+    color: #999;
+  }
+  
+  /* When focusing the input field, show the placeholder text */
+  .text-input:focus::-webkit-input-placeholder {
+    color: #f0baba;
+    visibility: visible;
+  }
+  
+  /* On focus, adjust the input field's top offset by 25px */
+  .text-input:focus {
+    transform: translateY(-22px);
+  }
+  
+  /* Reset the input field when losing focus */
+  .text-input:focus-within {
+    transition: all 0.3s ease;
+  }
+  
+
